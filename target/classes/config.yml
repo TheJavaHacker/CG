@@ -1,0 +1,36 @@
+Database:
+  host: 'central-games.net'
+  username: 'centralg_pData'
+  password: 'centralg_pData2176'
+  port: 3306
+  dbname: 'centralg_pData'
+#
+Permissions:
+  Owner:
+    - centralcore.fly
+  Developer:
+    - centralcore.fly
+  Manager:
+    - centralcore.fly
+  Senior_Mod:
+    - centralcore.fly
+  Junior_Mod:
+    - centralcore.fly
+  Events:
+    - centralcore.fly
+  Helper:
+    - centralcore.fly
+  Sponsor:
+    - centralcore.fly
+  YouTuber:
+    - centralcore.fly
+  Streamer:
+    - centralcore.fly
+  Friend:
+    - centralcore.fly
+  MVP:
+    - centralcore.fly
+  VIP:
+    - centralcore.fly
+  ALL:
+    - centralcore.fly

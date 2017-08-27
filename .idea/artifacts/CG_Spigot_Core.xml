@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CG Spigot Core">
+    <output-path>$PROJECT_DIR$/out/artifacts/CG_Spigot_Core</output-path>
+    <root id="archive" name="CG Spigot Core.jar">
+      <element id="module-output" name="Central-Games Spigot Core" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+name: Central-Games Spigot Core
+author: TheTARDIS2176
+version: 2.0-SNAPSHOT
+main: net.central_games.Core.Core
+description: Central-Games Spigot Core
+commands:
+  setrank:
+    description: /setrank <player> <rank>
+    usage: /setrank <player> <rank>
